@@ -65,3 +65,4 @@ jobs:
           app-name: 'appcloudweb'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E38D23F974334036A219B4E05EF78B4B }}
+
